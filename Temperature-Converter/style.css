@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to left bottom, lightgreen, lightblue);
+        min-height: 100vh;
+
+}
+.conatianer{
+    background: rgba(255, 255, 255, 0.3);
+    padding: 20px;
+    box-shadow:  0 4px 10px rgba(0, 0, 0, 0.3);;
+    width: 85%;
+    margin: 40px auto;
+    margin-top: 120px;
+    max-width: 480px;
+    min-width: 220px;
+    text-align: center;
+    justify-content: center;
+}
+.temconatiner{
+    text-align: start;
+    padding: 25px;
+}
+.input{
+    width: 220px;
+    height: 30px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.5);
+    float: right;
+}
